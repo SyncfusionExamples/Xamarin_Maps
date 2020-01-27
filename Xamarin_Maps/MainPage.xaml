@@ -5,7 +5,7 @@
     <Grid>
         <maps:SfMaps >
             <maps:SfMaps.Layers>
-                <maps:ImageryLayer LayerType="Bing" BingMapStyle="Aerial" BingMapKey="AnSYO1SaQ3orD5iL7ie1wUvXbM8iFfmhXqjNTlmkHkm6u2VwsXE6bePft_nDbqn1" >
+                <maps:ImageryLayer LayerType="Bing" BingMapStyle="Aerial" BingMapKey="" >
                     <!--<maps:ImageryLayer LayerType="OSM">--> <!--To add OSM maps-->
                     <maps:ImageryLayer.Markers>
                         <maps:MapMarker Label="United States" Latitude="38.8833" Longitude= "-77.0167"/>
