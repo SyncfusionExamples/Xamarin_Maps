@@ -1,6 +1,6 @@
-# SfMaps Seating Layout
+# Displaying Bing map using Syncfusion Map
 
-This repository contains the [Syncfusion Xamarin.Forms Maps](https://help.syncfusion.com/xamarin/maps/getting-started) control sample using Bing and OSM maps.
+This repository contains the sample to display the bing map using the Syncfusion Xamarin forms Maps [Syncfusion Xamarin.Forms Maps](https://help.syncfusion.com/xamarin/maps/getting-started) control.
 
 ## Syncfusion controls:
 
